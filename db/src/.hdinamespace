@@ -1,4 +1,4 @@
 {
-"name": "MTA_Test_App",
-"subfolder": "ignore"
+    "name":    "MTA_Test_App",
+    "subfolder": "append"
 }
